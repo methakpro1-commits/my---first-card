@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Card</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="card">
+        <img src="https://avatars.githubusercontent.com/u/1?v=4" alt="My Photo" class="profile-img">
+        <h1>ميثاق الكباطي</h1>
+        <p class="title">FullStack Developer</p>
+        <p class="desc">هذا أول كارد لي في رحلة الـ FullStack! 🚀</p>
+        <div class="links">
+            <a href="https://github.com/methakpro1-commits" target="_blank">GitHub</a>
+            <a href="#">LinkedIn</a>
+        </div>
+    </div>
+</body>
+</html>
